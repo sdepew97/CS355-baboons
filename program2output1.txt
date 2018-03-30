@@ -1,0 +1,302 @@
+﻿Printout 1 Problem 40)
+Westward baboon created at 1520389998 with id 1738.
+Westward baboon id 1738 crossing at 1520389999.
+Westward baboon id 1738 done crossing at 1520390003.
+Westward baboon created at 1520390007 with id 1739.
+Westward baboon id 1739 crossing at 1520390008.
+Westward baboon id 1739 done crossing at 1520390012.
+Westward baboon created at 1520390039 with id 1746.
+Westward baboon id 1746 crossing at 1520390040.
+Westward baboon id 1746 done crossing at 1520390044.
+Eastward baboon created at 1520390056 with id 1748.
+Eastward baboon id 1748 crossing at 1520390057.
+Eastward baboon id 1748 done crossing at 1520390061.
+Eastward baboon created at 1520390063 with id 1749.
+Eastward baboon id 1749 crossing at 1520390064.
+Eastward baboon id 1749 done crossing at 1520390068.
+Westward baboon created at 1520390093 with id 1755.
+Westward baboon id 1755 crossing at 1520390094.
+Westward baboon id 1755 done crossing at 1520390098.
+Westward baboon created at 1520390111 with id 1759.
+Westward baboon id 1759 crossing at 1520390112.
+Westward baboon id 1759 done crossing at 1520390116.
+Eastward baboon created at 1520390132 with id 1772.
+Eastward baboon id 1772 crossing at 1520390133.
+Eastward baboon id 1772 done crossing at 1520390137.
+Eastward baboon created at 1520390149 with id 1773.
+Eastward baboon id 1773 crossing at 1520390150.
+Eastward baboon id 1773 done crossing at 1520390154.
+Eastward baboon created at 1520390168 with id 2059.
+Eastward baboon id 2059 crossing at 1520390169.
+Eastward baboon id 2059 done crossing at 1520390173.
+Eastward baboon created at 1520390186 with id 2265.
+Eastward baboon id 2265 crossing at 1520390187.
+Eastward baboon id 2265 done crossing at 1520390191.
+Eastward baboon created at 1520390204 with id 2266.
+Eastward baboon id 2266 crossing at 1520390205.
+Eastward baboon id 2266 done crossing at 1520390209.
+Westward baboon created at 1520390222 with id 2267.
+Westward baboon id 2267 crossing at 1520390223.
+Westward baboon id 2267 done crossing at 1520390227.
+Eastward baboon created at 1520390243 with id 2271.
+Eastward baboon id 2271 crossing at 1520390244.
+Eastward baboon id 2271 done crossing at 1520390248.
+Eastward baboon created at 1520390262 with id 2274.
+Eastward baboon id 2274 crossing at 1520390263.
+Eastward baboon id 2274 done crossing at 1520390267.
+Westward baboon created at 1520390278 with id 2275.
+Westward baboon id 2275 crossing at 1520390279.
+Westward baboon id 2275 done crossing at 1520390283.
+Eastward baboon created at 1520390297 with id 2280.
+Eastward baboon id 2280 crossing at 1520390298.
+Eastward baboon id 2280 done crossing at 1520390302.
+Westward baboon created at 1520390314 with id 2282.
+Westward baboon id 2282 crossing at 1520390315.
+Westward baboon id 2282 done crossing at 1520390319.
+Westward baboon created at 1520390331 with id 2286.
+Westward baboon id 2286 crossing at 1520390332.
+Westward baboon id 2286 done crossing at 1520390336.
+Westward baboon created at 1520390352 with id 2293.
+Westward baboon id 2293 crossing at 1520390353.
+Westward baboon id 2293 done crossing at 1520390357.
+Eastward baboon created at 1520390368 with id 2295.
+Eastward baboon id 2295 crossing at 1520390369.
+Eastward baboon id 2295 done crossing at 1520390373.
+Westward baboon created at 1520390387 with id 2296.
+Westward baboon id 2296 crossing at 1520390388.
+Westward baboon id 2296 done crossing at 1520390392.
+Eastward baboon created at 1520390404 with id 2299.
+Eastward baboon id 2299 crossing at 1520390405.
+Eastward baboon id 2299 done crossing at 1520390409.
+Westward baboon created at 1520390421 with id 2302.
+Westward baboon id 2302 crossing at 1520390422.
+Westward baboon id 2302 done crossing at 1520390426.
+Eastward baboon created at 1520390439 with id 2503.
+Eastward baboon id 2503 crossing at 1520390440.
+Eastward baboon id 2503 done crossing at 1520390444.
+Eastward baboon created at 1520390458 with id 2786.
+Eastward baboon id 2786 crossing at 1520390459.
+Eastward baboon id 2786 done crossing at 1520390463.
+Westward baboon created at 1520390477 with id 2788.
+Westward baboon id 2788 crossing at 1520390478.
+Westward baboon id 2788 done crossing at 1520390482.
+Eastward baboon created at 1520390493 with id 2794.
+Eastward baboon id 2794 crossing at 1520390494.
+Eastward baboon id 2794 done crossing at 1520390498.
+Westward baboon created at 1520390510 with id 2796.
+Westward baboon id 2796 crossing at 1520390511.
+Westward baboon id 2796 done crossing at 1520390515.
+Eastward baboon created at 1520390531 with id 2797.
+Eastward baboon id 2797 crossing at 1520390532.
+Eastward baboon id 2797 done crossing at 1520390536.
+Westward baboon created at 1520390548 with id 2800.
+Westward baboon id 2800 crossing at 1520390549.
+Westward baboon id 2800 done crossing at 1520390553.
+Westward baboon created at 1520390569 with id 2803.
+Westward baboon id 2803 crossing at 1520390570.
+Westward baboon id 2803 done crossing at 1520390574.
+Westward baboon created at 1520390585 with id 2804.
+Westward baboon id 2804 crossing at 1520390586.
+Westward baboon id 2804 done crossing at 1520390590.
+Eastward baboon created at 1520390601 with id 2806.
+Eastward baboon id 2806 crossing at 1520390602.
+Eastward baboon id 2806 done crossing at 1520390606.
+Eastward baboon created at 1520390622 with id 2810.
+Eastward baboon id 2810 crossing at 1520390623.
+Eastward baboon id 2810 done crossing at 1520390627.
+Eastward baboon created at 1520390643 with id 2815.
+Eastward baboon id 2815 crossing at 1520390644.
+Eastward baboon id 2815 done crossing at 1520390648.
+Eastward baboon created at 1520390664 with id 2817.
+Eastward baboon id 2817 crossing at 1520390665.
+Eastward baboon id 2817 done crossing at 1520390669.
+Westward baboon created at 1520390682 with id 2819.
+Westward baboon id 2819 crossing at 1520390683.
+Westward baboon id 2819 done crossing at 1520390687.
+Westward baboon created at 1520390702 with id 2821.
+Westward baboon id 2821 crossing at 1520390703.
+Westward baboon id 2821 done crossing at 1520390707.
+Westward baboon created at 1520390719 with id 2823.
+Westward baboon id 2823 crossing at 1520390720.
+Westward baboon id 2823 done crossing at 1520390724.
+Eastward baboon created at 1520390739 with id 2826.
+Eastward baboon id 2826 crossing at 1520390740.
+Eastward baboon id 2826 done crossing at 1520390744.
+Eastward baboon created at 1520390756 with id 2829.
+Eastward baboon id 2829 crossing at 1520390757.
+Eastward baboon id 2829 done crossing at 1520390761.
+Westward baboon created at 1520390776 with id 3315.
+Westward baboon id 3315 crossing at 1520390777.
+Westward baboon id 3315 done crossing at 1520390781.
+Eastward baboon created at 1520390796 with id 3322.
+Eastward baboon id 3322 crossing at 1520390797.
+Eastward baboon id 3322 done crossing at 1520390801.
+Eastward baboon created at 1520390818 with id 3323.
+Eastward baboon id 3323 crossing at 1520390819.
+Eastward baboon id 3323 done crossing at 1520390823.
+Eastward baboon created at 1520390836 with id 3325.
+Eastward baboon id 3325 crossing at 1520390837.
+Eastward baboon id 3325 done crossing at 1520390841.
+Westward baboon created at 1520390854 with id 3328.
+Westward baboon id 3328 crossing at 1520390855.
+Westward baboon id 3328 done crossing at 1520390859.
+Westward baboon created at 1520390872 with id 3331.
+Westward baboon id 3331 crossing at 1520390873.
+Westward baboon id 3331 done crossing at 1520390877.
+Eastward baboon created at 1520390888 with id 3333.
+Eastward baboon id 3333 crossing at 1520390889.
+Eastward baboon id 3333 done crossing at 1520390893.
+Westward baboon created at 1520390905 with id 3334.
+Westward baboon id 3334 crossing at 1520390906.
+Westward baboon id 3334 done crossing at 1520390910.
+Westward baboon created at 1520390925 with id 3339.
+Westward baboon id 3339 crossing at 1520390926.
+Westward baboon id 3339 done crossing at 1520390930.
+Westward baboon created at 1520390945 with id 3345.
+Westward baboon id 3345 crossing at 1520390946.
+Westward baboon id 3345 done crossing at 1520390950.
+Westward baboon created at 1520390965 with id 3346.
+Westward baboon id 3346 crossing at 1520390966.
+Westward baboon id 3346 done crossing at 1520390970.
+Eastward baboon created at 1520390981 with id 3348.
+Eastward baboon id 3348 crossing at 1520390982.
+Eastward baboon id 3348 done crossing at 1520390986.
+Westward baboon created at 1520390998 with id 3350.
+Westward baboon id 3350 crossing at 1520390999.
+Westward baboon id 3350 done crossing at 1520391003.
+Westward baboon created at 1520391018 with id 3353.
+Westward baboon id 3353 crossing at 1520391019.
+Westward baboon id 3353 done crossing at 1520391023.
+Eastward baboon created at 1520391037 with id 3372.
+Eastward baboon id 3372 crossing at 1520391038.
+Eastward baboon id 3372 done crossing at 1520391042.
+Westward baboon created at 1520391056 with id 3839.
+Westward baboon id 3839 crossing at 1520391057.
+Westward baboon id 3839 done crossing at 1520391061.
+Westward baboon created at 1520391072 with id 3841.
+Westward baboon id 3841 crossing at 1520391073.
+Westward baboon id 3841 done crossing at 1520391077.
+Eastward baboon created at 1520391092 with id 3846.
+Eastward baboon id 3846 crossing at 1520391093.
+Eastward baboon id 3846 done crossing at 1520391097.
+Westward baboon created at 1520391110 with id 3850.
+Westward baboon id 3850 crossing at 1520391111.
+Westward baboon id 3850 done crossing at 1520391115.
+Westward baboon created at 1520391127 with id 3851.
+Westward baboon id 3851 crossing at 1520391128.
+Westward baboon id 3851 done crossing at 1520391132.
+Eastward baboon created at 1520391147 with id 3853.
+Eastward baboon id 3853 crossing at 1520391148.
+Eastward baboon id 3853 done crossing at 1520391152.
+Westward baboon created at 1520391164 with id 3857.
+Westward baboon id 3857 crossing at 1520391165.
+Westward baboon id 3857 done crossing at 1520391169.
+Eastward baboon created at 1520391182 with id 3858.
+Eastward baboon id 3858 crossing at 1520391183.
+Eastward baboon id 3858 done crossing at 1520391187.
+Westward baboon created at 1520391199 with id 3859.
+Westward baboon id 3859 crossing at 1520391200.
+Westward baboon id 3859 done crossing at 1520391204.
+Westward baboon created at 1520391221 with id 3863.
+Westward baboon id 3863 crossing at 1520391222.
+Westward baboon id 3863 done crossing at 1520391226.
+Westward baboon created at 1520391238 with id 3868.
+Westward baboon id 3868 crossing at 1520391239.
+Westward baboon id 3868 done crossing at 1520391243.
+Eastward baboon created at 1520391257 with id 3869.
+Eastward baboon id 3869 crossing at 1520391258.
+Eastward baboon id 3869 done crossing at 1520391262.
+Eastward baboon created at 1520391278 with id 3872.
+Eastward baboon id 3872 crossing at 1520391279.
+Eastward baboon id 3872 done crossing at 1520391283.
+Westward baboon created at 1520391298 with id 3874.
+Westward baboon id 3874 crossing at 1520391299.
+Westward baboon id 3874 done crossing at 1520391303.
+Westward baboon created at 1520391316 with id 3876.
+Westward baboon id 3876 crossing at 1520391317.
+Westward baboon id 3876 done crossing at 1520391321.
+Westward baboon created at 1520391332 with id 3877.
+Westward baboon id 3877 crossing at 1520391333.
+Westward baboon id 3877 done crossing at 1520391337.
+Eastward baboon created at 1520391351 with id 3901.
+Eastward baboon id 3901 crossing at 1520391352.
+Eastward baboon id 3901 done crossing at 1520391356.
+Westward baboon created at 1520391371 with id 4063.
+Westward baboon id 4063 crossing at 1520391372.
+Westward baboon id 4063 done crossing at 1520391376.
+Eastward baboon created at 1520391391 with id 4391.
+Eastward baboon id 4391 crossing at 1520391392.
+Eastward baboon id 4391 done crossing at 1520391396.
+Eastward baboon created at 1520391407 with id 4393.
+Eastward baboon id 4393 crossing at 1520391408.
+Eastward baboon id 4393 done crossing at 1520391412.
+Eastward baboon created at 1520391423 with id 4394.
+Eastward baboon id 4394 crossing at 1520391424.
+Eastward baboon id 4394 done crossing at 1520391428.
+Westward baboon created at 1520391441 with id 4397.
+Westward baboon id 4397 crossing at 1520391442.
+Westward baboon id 4397 done crossing at 1520391446.
+Westward baboon created at 1520391461 with id 4401.
+Westward baboon id 4401 crossing at 1520391462.
+Westward baboon id 4401 done crossing at 1520391466.
+Westward baboon created at 1520391482 with id 4403.
+Westward baboon id 4403 crossing at 1520391483.
+Westward baboon id 4403 done crossing at 1520391487.
+Eastward baboon created at 1520391499 with id 4405.
+Eastward baboon id 4405 crossing at 1520391500.
+Eastward baboon id 4405 done crossing at 1520391504.
+Eastward baboon created at 1520391516 with id 4407.
+Eastward baboon id 4407 crossing at 1520391517.
+Eastward baboon id 4407 done crossing at 1520391521.
+Eastward baboon created at 1520391533 with id 4416.
+Eastward baboon id 4416 crossing at 1520391534.
+Eastward baboon id 4416 done crossing at 1520391538.
+Westward baboon created at 1520391550 with id 4418.
+Westward baboon id 4418 crossing at 1520391551.
+Westward baboon id 4418 done crossing at 1520391555.
+Eastward baboon created at 1520391569 with id 4419.
+Eastward baboon id 4419 crossing at 1520391570.
+Eastward baboon id 4419 done crossing at 1520391574.
+Eastward baboon created at 1520391587 with id 4421.
+Eastward baboon id 4421 crossing at 1520391588.
+Eastward baboon id 4421 done crossing at 1520391592.
+Westward baboon created at 1520391605 with id 4423.
+Westward baboon id 4423 crossing at 1520391606.
+Westward baboon id 4423 done crossing at 1520391610.
+Westward baboon created at 1520391623 with id 4426.
+Westward baboon id 4426 crossing at 1520391624.
+Westward baboon id 4426 done crossing at 1520391628.
+Westward baboon created at 1520391640 with id 4493.
+Westward baboon id 4493 crossing at 1520391641.
+Westward baboon id 4493 done crossing at 1520391645.
+Westward baboon created at 1520391657 with id 4910.
+Westward baboon id 4910 crossing at 1520391658.
+Westward baboon id 4910 done crossing at 1520391662.
+Eastward baboon created at 1520391676 with id 4912.
+Eastward baboon id 4912 crossing at 1520391677.
+Eastward baboon id 4912 done crossing at 1520391681.
+Eastward baboon created at 1520391692 with id 4918.
+Eastward baboon id 4918 crossing at 1520391693.
+Eastward baboon id 4918 done crossing at 1520391697.
+Eastward baboon created at 1520391712 with id 4921.
+Eastward baboon id 4921 crossing at 1520391713.
+Eastward baboon id 4921 done crossing at 1520391717.
+Westward baboon created at 1520391730 with id 4922.
+Westward baboon id 4922 crossing at 1520391731.
+Westward baboon id 4922 done crossing at 1520391735.
+Westward baboon created at 1520391751 with id 4924.
+Westward baboon id 4924 crossing at 1520391752.
+Westward baboon id 4924 done crossing at 1520391756.
+Westward baboon created at 1520391772 with id 4928.
+Westward baboon id 4928 crossing at 1520391773.
+Westward baboon id 4928 done crossing at 1520391777.
+Westward baboon created at 1520391791 with id 4930.
+Westward baboon id 4930 crossing at 1520391792.
+Westward baboon id 4930 done crossing at 1520391796.
+Westward baboon created at 1520391811 with id 4931.
+Westward baboon id 4931 crossing at 1520391812.
+Westward baboon id 4931 done crossing at 1520391816.
+Westward baboon created at 1520391831 with id 4938.
+Westward baboon id 4938 crossing at 1520391832.
+Westward baboon id 4938 done crossing at 1520391836.
+Baboons done crossing.
