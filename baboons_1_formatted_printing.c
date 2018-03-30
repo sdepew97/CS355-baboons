@@ -72,7 +72,7 @@ void crossRope(int direction) {
     else {
       	printf("Westward baboon created at %d with id %d.\n", now.tv_sec,  getpid());
     }
-    if(rptr->numDirection[reverseDirection]) { //while there are baboons coming from the opposite direction...
+    while (rptr->numDirection[reverseDirection]) { //while there are baboons coming from the opposite direction...
         rptr->numBlocked[direction]++; //denote that a baboon from the direction is blocked
         sem_post(&rptr->mutex); //release the mutex
         sem_wait(&rptr->blocked[direction]); //block baboons from the direction, so that we don't reach a deadlock
